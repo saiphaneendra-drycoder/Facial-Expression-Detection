@@ -1,1 +1,1 @@
-# phani
+DNN model on mnist dataset
